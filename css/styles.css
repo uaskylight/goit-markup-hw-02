@@ -57,7 +57,6 @@ body{
 .contacts-item{
     color:var( --secondary-color);
     font-weight: 500;
-    font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
 
@@ -107,7 +106,6 @@ body{
 }
 .section-item-about{
     font-weight: 700;
-    font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -119,7 +117,6 @@ body{
 }
 .section-title{
     color:var( --secondary-color);
-    font-size: 14px;
     line-height: 1.71;
 }
 .section-work-item{
@@ -155,7 +152,6 @@ body{
 }
 .contact{
     font-style: normal;
-    font-size: 14px;
     line-height: 1.71;
     color: var(--contact-footer);
 }
